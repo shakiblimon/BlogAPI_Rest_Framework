@@ -19,6 +19,6 @@ To view work and check out a DRF killer feature . Start up the server.
 ![1](https://user-images.githubusercontent.com/15167039/39880404-83d91604-549f-11e8-860e-2d78c4d6aad1.png)
 
 <b> Post Details</b></br>
-To View the Updated Graphical UI
+To View the Updated Graphical UI , Refesh the page.
 ![2](https://user-images.githubusercontent.com/15167039/39880619-213bda3a-54a0-11e8-901e-6b4f42953f17.png)
 
